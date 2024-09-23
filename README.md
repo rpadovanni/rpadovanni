@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="171" src="https://media.licdn.com/dms/image/v2/D4D03AQEzfKtlkvu3gg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1671813467851?e=1732752000&v=beta&t=GpsVhmCCkhP__pzNUpe6PwhQqlPw4q58hX87xhGKqa8"  />
-</div>
-
-###
-
 <h3 align="center">Hi, I'm Rafael!<br>a Senior Frontend Engineer<br>crafting modern, user-friendly and performant web applications.</h3>
 
 ---
@@ -44,8 +38,8 @@
 <div align="center">
   <span align="center">send me a message</span>
   <h3 align="center">Lets create something amazing together!</h3>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="28" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="28" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="20" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="20" alt="gmail logo"  />
 </div>
 
 ---
